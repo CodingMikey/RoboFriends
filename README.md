@@ -1,4 +1,4 @@
-# robofriends
+# React Application to search all your robot friends!
 Tutorial for udemy course - React
 To run the project:
 
