@@ -7,15 +7,15 @@ To run the project:
 3. Run `npm start`
 
 
-## Technologies Used
-# Front-End
+# Technologies Used
+## Front-End
 * HTML5
 * CSS3
 * React.js
-# Packages
+## Packages
 * Create React App
 * Tachyons(stlying packing)
-# APIs
+## APIs
 * RoboHash 
 * JSONPlaceholder
 
