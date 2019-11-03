@@ -6,14 +6,16 @@ To run the project:
 2. Run `npm install`
 3. Run `npm start`
 
-# Technologies Used
+
+## Technologies Used
 # Front-End
-1.) HTML5
-2.) CSS3
-3.) React.js
-# React Packages
-1.) Create React App
-2.) Tachyons
+* HTML5
+* CSS3
+* React.js
+# Packages
+* Create React App
+* Tachyons(stlying packing)
 # APIs
-1.) RoboHash
-2.) JSONPlaceholder
+* RoboHash 
+* JSONPlaceholder
+
