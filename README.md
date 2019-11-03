@@ -19,6 +19,6 @@ To run the project:
 * RoboHash 
 * JSONPlaceholder
 
-![GitHub Logo](/images/logo.png)
+
 Format: ![Alt Text](https://michaelgalas.netlify.com/assets/banner1.8ce81afbae3b680db6774e7d97dae58c.png)
 
