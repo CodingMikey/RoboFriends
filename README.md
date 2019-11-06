@@ -15,6 +15,8 @@ To run the project:
 ## Packages
 * Create React App
 * Tachyons(stlying packing)
+* Redux-thunk
+* Redux-logger
 ## APIs
 * RoboHash 
 * JSONPlaceholder
