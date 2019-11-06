@@ -8,10 +8,10 @@ To run the project:
 
 
 # Technologies Used
-## Front-End
 * HTML5
 * CSS3
 * React.js
+* Redux
 ## Packages
 * Create React App
 * Tachyons(stlying packing)
