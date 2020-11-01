@@ -11,12 +11,9 @@ To run the project:
 * HTML5
 * CSS3
 * React.js
-* Redux
 ## Packages
 * Create React App
 * Tachyons(stlying packing)
-* Redux-thunk
-* Redux-logger
 ## APIs
 * RoboHash 
 * JSONPlaceholder
